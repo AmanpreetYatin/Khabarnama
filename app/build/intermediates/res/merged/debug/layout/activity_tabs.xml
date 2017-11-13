@@ -1,0 +1,177 @@
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+        <include
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:minHeight="?attr/actionBarSize"
+            android:id="@+id/toolbar" layout="@layout/toorbar" />
+
+
+        <com.ogaclejapan.smarttablayout.SmartTabLayout
+            android:id="@+id/tabs"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            app:stl_indicatorAlwaysInCenter="false"
+            app:stl_indicatorWithoutPadding="false"
+            app:stl_indicatorInFront="false"
+            android:paddingLeft="4dp"
+            android:paddingRight="4dp"
+            app:stl_indicatorInterpolation="smart"
+            app:stl_indicatorGravity="center"
+            app:stl_indicatorColor="@color/colorPrimaryDark"
+            app:stl_indicatorThickness="36dp"
+            app:stl_indicatorWidth="auto"
+            app:stl_indicatorCornerRadius="18dp"
+            app:stl_overlineThickness="0dp"
+            app:stl_underlineColor="@android:color/transparent"
+            app:stl_underlineThickness="0dp"
+            app:stl_dividerColor="@android:color/transparent"
+            app:stl_dividerThickness="1dp"
+            app:stl_defaultTabBackground="?attr/selectableItemBackground"
+            app:stl_defaultTabTextAllCaps="true"
+            app:stl_defaultTabTextColor="#FFFFFF"
+            app:stl_defaultTabTextSize="12sp"
+            app:stl_defaultTabTextHorizontalPadding="18dp"
+            app:stl_defaultTabTextMinWidth="0dp"
+            app:stl_distributeEvenly="false"
+            app:stl_clickable="true"
+            app:stl_titleOffset="24dp"
+            app:stl_drawDecorationAfterTab="false"
+            />
+    </android.support.design.widget.AppBarLayout>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"  />
+    <LinearLayout
+        android:visibility="visible"
+        android:background="@color/BurlyWood"
+        android:id="@+id/ll_bottom_player"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|bottom"
+        android:orientation="horizontal" >
+        <ImageView
+            android:id="@+id/imageViewAlbumArt"
+            android:layout_width="@dimen/small_image_art_width"
+            android:layout_height="@dimen/small_image_art_width"
+            android:scaleType="centerCrop"
+            app:srcCompat="@drawable/player_back1" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+            <TextView
+                android:id="@+id/textNowPlaying"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ellipsize="marquee"
+                android:gravity="center_horizontal"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:maxLines="1"
+                android:text="@string/empty_text"
+                android:textColor="@color/black"
+                android:textSize="15sp" />
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:orientation="horizontal" >
+
+                <ImageView
+                    android:id="@+id/btnPrevious"
+                    android:layout_width="@dimen/small_button_width"
+                    android:layout_height="@dimen/small_button_width"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:src="@drawable/icon_previous"
+                    android:background="@drawable/select" />
+                <ImageView
+                    android:id="@+id/btnPlay"
+                    android:layout_width="@dimen/small_button_width"
+                    android:layout_height="@dimen/small_button_width"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:src="@drawable/icon_play"
+                    android:background="@drawable/select"
+                    android:visibility="gone" />
+                <ImageView
+                    android:id="@+id/btnPause"
+                    android:layout_width="@dimen/small_button_width"
+                    android:layout_height="@dimen/small_button_width"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:src="@drawable/icon_pause"
+                    android:background="@drawable/select" />
+                <ImageView
+                    android:visibility="gone"
+                    android:id="@+id/btnStop"
+                    android:layout_width="@dimen/small_button_width"
+                    android:layout_height="@dimen/small_button_width"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:src="@drawable/icon_stop"
+                    android:background="@drawable/select" />
+                <ImageView
+                    android:id="@+id/btnNext"
+                    android:layout_width="@dimen/small_button_width"
+                    android:layout_height="@dimen/small_button_width"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:src="@drawable/icon_next"
+                    android:background="@drawable/select" />
+                <ImageView
+                    android:id="@+id/btnMusicPlayer"
+                    android:layout_width="@dimen/small_button_width"
+                    android:layout_height="@dimen/small_button_width"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:src="@drawable/ic_noti"
+                    android:background="@drawable/select" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:orientation="horizontal" >
+                <TextView
+                    android:id="@+id/textBufferDuration"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textColor="@color/white" />
+                <TextView
+                    android:id="@+id/textDuration"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="right"
+                    android:textColor="@color/white" />
+            </LinearLayout>
+            <SeekBar
+                android:id="@+id/progressBar"
+                style="?android:attr/seekBarStyle"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="1dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp" />
+        </LinearLayout>
+    </LinearLayout>
+
+</android.support.design.widget.CoordinatorLayout>

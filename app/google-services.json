@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1011924211205",
+    "firebase_url": "https://khabarnama-69e55.firebaseio.com",
+    "project_id": "khabarnama-69e55",
+    "storage_bucket": "khabarnama-69e55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011924211205:android:8ec9f181571090aa",
+        "android_client_info": {
+          "package_name": "com.bxs.khabarnama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011924211205-4jacfmatsj2nh453skn5t1jnibu92lhc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bxs.khabarnama",
+            "certificate_hash": "D1F3B11D3A249303361F66F8B812D5B5A2A9C620"
+          }
+        },
+        {
+          "client_id": "1011924211205-c17b98uem4bc2mjjl6gmdjq8jujliegm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRupwHrNzD5lWxZZdg-Cb8As-KDdUmIWk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011924211205-c17b98uem4bc2mjjl6gmdjq8jujliegm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

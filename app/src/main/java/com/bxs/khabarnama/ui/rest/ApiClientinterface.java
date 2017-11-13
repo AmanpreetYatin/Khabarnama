@@ -1,0 +1,1 @@
+package com.bxs.khabarnama.ui.rest;public interface ApiClientinterface {}

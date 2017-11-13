@@ -1,0 +1,322 @@
+[
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/amy/.android/build-cache/c1c934eb95ecb7405138912870f2ccfe88a2737e/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/home/amy/.android/build-cache/83da6c6c8b6afe3090917cee533092bb548bf075/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/menus.xml",
+        "source": "/home/amy/.android/build-cache/aaab1015aeef72a3a763e5c009cfc654517446f5/output/res/layout/menus.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
+        "source": "/home/amy/.android/build-cache/c1c934eb95ecb7405138912870f2ccfe88a2737e/output/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/fragment_home.xml",
+        "source": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/amy/.android/build-cache/c1c934eb95ecb7405138912870f2ccfe88a2737e/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/app_bar_main2.xml",
+        "source": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/src/main/res/layout/app_bar_main2.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/kprogresshud_hud.xml",
+        "source": "/home/amy/.android/build-cache/cdf2e05e41141f33afd168a2cc632e3ef98d23ce/output/res/layout/kprogresshud_hud.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/content_main2.xml",
+        "source": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/src/main/res/layout/content_main2.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/fragment_panu.xml",
+        "source": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/src/main/res/layout/fragment_panu.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/header.xml",
+        "source": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/src/main/res/layout/header.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/amy/.android/build-cache/c1c934eb95ecb7405138912870f2ccfe88a2737e/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/audio_player.xml",
+        "source": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/src/main/res/layout/audio_player.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/big_notification.xml",
+        "source": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/src/main/res/layout/big_notification.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/fragment_all_station.xml",
+        "source": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/src/main/res/layout/fragment_all_station.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/amy/.android/build-cache/c1c934eb95ecb7405138912870f2ccfe88a2737e/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/amy/.android/build-cache/c1c934eb95ecb7405138912870f2ccfe88a2737e/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/amy/.android/build-cache/c1c934eb95ecb7405138912870f2ccfe88a2737e/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/common_recycleview.xml",
+        "source": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/src/main/res/layout/common_recycleview.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/amy/.android/build-cache/c1c934eb95ecb7405138912870f2ccfe88a2737e/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/amy/.android/build-cache/c1c934eb95ecb7405138912870f2ccfe88a2737e/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/amy/.android/build-cache/c1c934eb95ecb7405138912870f2ccfe88a2737e/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/home/amy/.android/build-cache/83da6c6c8b6afe3090917cee533092bb548bf075/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/home/amy/.android/build-cache/83da6c6c8b6afe3090917cee533092bb548bf075/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/amy/.android/build-cache/c1c934eb95ecb7405138912870f2ccfe88a2737e/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/amy/.android/build-cache/c1c934eb95ecb7405138912870f2ccfe88a2737e/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/amy/.android/build-cache/c1c934eb95ecb7405138912870f2ccfe88a2737e/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/amy/.android/build-cache/c1c934eb95ecb7405138912870f2ccfe88a2737e/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/amy/.android/build-cache/c1c934eb95ecb7405138912870f2ccfe88a2737e/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/amy/.android/build-cache/c1c934eb95ecb7405138912870f2ccfe88a2737e/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/amy/.android/build-cache/c1c934eb95ecb7405138912870f2ccfe88a2737e/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/amy/.android/build-cache/c1c934eb95ecb7405138912870f2ccfe88a2737e/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/amy/.android/build-cache/c1c934eb95ecb7405138912870f2ccfe88a2737e/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/amy/.android/build-cache/c1c934eb95ecb7405138912870f2ccfe88a2737e/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/home/amy/.android/build-cache/c1c934eb95ecb7405138912870f2ccfe88a2737e/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/activity_main2.xml",
+        "source": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/src/main/res/layout/activity_main2.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/amy/.android/build-cache/c1c934eb95ecb7405138912870f2ccfe88a2737e/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/amy/.android/build-cache/c1c934eb95ecb7405138912870f2ccfe88a2737e/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/finest_web_view.xml",
+        "source": "/home/amy/.android/build-cache/aaab1015aeef72a3a763e5c009cfc654517446f5/output/res/layout/finest_web_view.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/item_audio.xml",
+        "source": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/src/main/res/layout/item_audio.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/toolbar_content.xml",
+        "source": "/home/amy/.android/build-cache/aaab1015aeef72a3a763e5c009cfc654517446f5/output/res/layout/toolbar_content.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/home/amy/.android/build-cache/83da6c6c8b6afe3090917cee533092bb548bf075/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/amy/.android/build-cache/c1c934eb95ecb7405138912870f2ccfe88a2737e/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/amy/.android/build-cache/c1c934eb95ecb7405138912870f2ccfe88a2737e/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/home/amy/.android/build-cache/c1c934eb95ecb7405138912870f2ccfe88a2737e/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/amy/.android/build-cache/c1c934eb95ecb7405138912870f2ccfe88a2737e/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/home/amy/.android/build-cache/c1c934eb95ecb7405138912870f2ccfe88a2737e/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/home/amy/.android/build-cache/83da6c6c8b6afe3090917cee533092bb548bf075/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/activity_all_stations.xml",
+        "source": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/src/main/res/layout/activity_all_stations.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/home/amy/.android/build-cache/c1c934eb95ecb7405138912870f2ccfe88a2737e/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/download_progres_view.xml",
+        "source": "/home/amy/.android/build-cache/6aa6f720eec4a8ec85d6d4da8ce4e2117b179388/output/res/layout/download_progres_view.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/fragment_about.xml",
+        "source": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/src/main/res/layout/fragment_about.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/home/amy/.android/build-cache/c1c934eb95ecb7405138912870f2ccfe88a2737e/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/amy/.android/build-cache/83da6c6c8b6afe3090917cee533092bb548bf075/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/home/amy/.android/build-cache/83da6c6c8b6afe3090917cee533092bb548bf075/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/home/amy/.android/build-cache/83da6c6c8b6afe3090917cee533092bb548bf075/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/activity_tabs.xml",
+        "source": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/src/main/res/layout/activity_tabs.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/adapter_stories.xml",
+        "source": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/src/main/res/layout/adapter_stories.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/home/amy/.android/build-cache/c1c934eb95ecb7405138912870f2ccfe88a2737e/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/home/amy/.android/build-cache/83da6c6c8b6afe3090917cee533092bb548bf075/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/amy/.android/build-cache/c1c934eb95ecb7405138912870f2ccfe88a2737e/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/home/amy/.android/build-cache/83da6c6c8b6afe3090917cee533092bb548bf075/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/nav_header_main2.xml",
+        "source": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/src/main/res/layout/nav_header_main2.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/toorbar.xml",
+        "source": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/src/main/res/layout/toorbar.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/home/amy/.android/build-cache/83da6c6c8b6afe3090917cee533092bb548bf075/output/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/amy/.android/build-cache/c1c934eb95ecb7405138912870f2ccfe88a2737e/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/home/amy/.android/build-cache/83da6c6c8b6afe3090917cee533092bb548bf075/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/amy/.android/build-cache/c1c934eb95ecb7405138912870f2ccfe88a2737e/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/activity_splash.xml",
+        "source": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/amy/.android/build-cache/c1c934eb95ecb7405138912870f2ccfe88a2737e/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/amy/.android/build-cache/c1c934eb95ecb7405138912870f2ccfe88a2737e/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/fragment_stories.xml",
+        "source": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/src/main/res/layout/fragment_stories.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/amy/.android/build-cache/c1c934eb95ecb7405138912870f2ccfe88a2737e/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/home/amy/.android/build-cache/83da6c6c8b6afe3090917cee533092bb548bf075/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/amy/.android/build-cache/c1c934eb95ecb7405138912870f2ccfe88a2737e/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/amy/.android/build-cache/c1c934eb95ecb7405138912870f2ccfe88a2737e/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/fragment_podcast.xml",
+        "source": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/src/main/res/layout/fragment_podcast.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/custom_notification.xml",
+        "source": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/src/main/res/layout/custom_notification.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/home/amy/.android/build-cache/83da6c6c8b6afe3090917cee533092bb548bf075/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/amy/.android/build-cache/c1c934eb95ecb7405138912870f2ccfe88a2737e/output/res/layout/abc_expanded_menu_layout.xml"
+    }
+]

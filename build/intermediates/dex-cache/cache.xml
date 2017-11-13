@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/amy/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/19.0/6ce200f6b23222af3d8abb6b6459e6c44f4bb0e9/guava-19.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ce200f6b23222af3d8abb6b6459e6c44f4bb0e9">
+        <dex dex="/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/transforms/dex/debug/folders/1000/10/guava-19.0_67914d7573d8021d7b2124a67fcdaea0c23d66a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amy/.gradle/caches/modules-2/files-2.1/com.squareup/javapoet/1.9.0/ecc5cf9c221d55481163e773b24336db149e51/javapoet-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="00ecc5cf9c221d55481163e773b24336db149e51">
+        <dex dex="/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/transforms/dex/debug/folders/1000/10/javapoet-1.9.0_cda90f8ac3d38c7082e6db9d41d957d8a2be0e3f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/libs/jackson-core-asl-1.9.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ecfc6f73a841c4c3c653b59651a3f9d5f1286469">
+        <dex dex="/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/transforms/dex/debug/folders/1000/2/jackson-core-asl-1.9.12_97e0e7adf2a9b32f2b4a8c046dfd3c3c8e5d0a89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amy/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.8.1/bc373fb6bc7bca3035041b924f158fd2b946ee8d/butterknife-annotations-8.8.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bc373fb6bc7bca3035041b924f158fd2b946ee8d">
+        <dex dex="/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.8.1_cc817560e109f7d59e588ed8a99efd79eabe4d3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amy/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.3.0_2cb911e1348ae1fe74d8cf856e64d1874f5d9ae5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/libs/org.apache.commons.io.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b90b6ac57cf27a2858eaa490d02ba7945d18ca7b">
+        <dex dex="/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/transforms/dex/debug/folders/1000/2/org.apache.commons.io_5873f8c6ece44ca2a8907b797295c498cd4c3bb8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amy/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_6c35cfb6d182e96b579d775c2cfa068c4f4a6e4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amy/.android/build-cache/c38b0f81b6151e16bda52c4c9199e9e12e685f08/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6a2bcb61342d09fe9acf55c9daf63961c8866cc0">
+        <dex dex="/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1850cfa8429079eb27f7428c28428bb590ac4904/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amy/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.13.0_5c6b2b2e998bcef3bc78a012fb21d1aa59cb1ac2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/libs/Parse-1.9.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fe739334780fe321141e62720822c2d456061899">
+        <dex dex="/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/transforms/dex/debug/folders/1000/2/Parse-1.9.2_9f6375acca704928b0a6c8beee6f8a3bbc426050/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amy/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-2.5.0_5fe0501a3eeb229e5105e0c8eb4b7bf8abdcfee7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/libs/apache-httpcomponents-httpcore.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="33fc26c02f8043ab0ede19eadc8c9885386b255c">
+        <dex dex="/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/transforms/dex/debug/folders/1000/2/apache-httpcomponents-httpcore_614cb850b901156459aebc5e39456c089b3880cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amy/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-compiler/8.8.1/b2f4505a1babb7b7c11abbbf8ea4c90b18c3aeac/butterknife-compiler-8.8.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b2f4505a1babb7b7c11abbbf8ea4c90b18c3aeac">
+        <dex dex="/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-compiler-8.8.1_06a46f48ebd5213943dcb5e0f083bfbd75207852/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amy/.gradle/caches/modules-2/files-2.1/com.google.auto/auto-common/0.8/c6f7af0e57b9d69d81b05434ef9f3c5610d498c4/auto-common-0.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c6f7af0e57b9d69d81b05434ef9f3c5610d498c4">
+        <dex dex="/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/transforms/dex/debug/folders/1000/10/auto-common-0.8_4b40a63b7eb39929097f38aa14e25a1f077342c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amy/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.6.0/81887458b69ddc32722df7e4c35235fd74e6a8ba/logging-interceptor-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="81887458b69ddc32722df7e4c35235fd74e6a8ba">
+        <dex dex="/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/transforms/dex/debug/folders/1000/10/logging-interceptor-3.6.0_6c713e80ba0dce6cdc0d86184a059ecd00691161/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amy/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.8.0_ef47004e34a9db4915ac121a285eba1a9f8127f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/libs/universal-image-loader-1.9.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/transforms/dex/debug/folders/1000/2/universal-image-loader-1.9.3_d362cd5212e7b75d104f5b353e61abfd9b1d8246/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amy/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.2_95891005bdff5e061c90e849b4beeb60d653e05b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_be64c0f8c015a7cbd45bd9068839bab22d1b226d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b255f4c0856776cbbdf7b5940cbd34dc80604f89">
+        <dex dex="/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a713523b8ae3d5d5d53758d5d9b6f709a8b9c6c8/classes.dex" />
+    </item>
+
+</items>

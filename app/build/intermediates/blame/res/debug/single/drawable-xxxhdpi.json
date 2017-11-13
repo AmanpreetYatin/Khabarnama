@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_alert_dialog.png",
+        "source": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/src/main/res/drawable-xxxhdpi/ic_alert_dialog.png"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_download_audio.png",
+        "source": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/src/main/res/drawable-xxxhdpi/ic_download_audio.png"
+    }
+]

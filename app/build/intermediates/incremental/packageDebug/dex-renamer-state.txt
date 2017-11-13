@@ -1,0 +1,7 @@
+#Fri Nov 10 00:08:08 IST 2017
+base.0=/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_be64c0f8c015a7cbd45bd9068839bab22d1b226d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a713523b8ae3d5d5d53758d5d9b6f709a8b9c6c8/classes.dex
+base.1=/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a713523b8ae3d5d5d53758d5d9b6f709a8b9c6c8
+file.0=/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_be64c0f8c015a7cbd45bd9068839bab22d1b226d/classes.dex

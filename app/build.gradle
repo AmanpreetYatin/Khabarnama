@@ -1,0 +1,62 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion '25.0.3'
+    defaultConfig {
+        applicationId "com.bxs.khabarnama"
+        minSdkVersion 14
+        targetSdkVersion 25
+        versionCode 9
+        versionName "9"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        vectorDrawables.useSupportLibrary = true
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    compile files('libs/universal-image-loader-1.9.3.jar')
+    compile files('libs/jackson-core-asl-1.9.12.jar')
+    compile files('libs/apache-httpcomponents-httpcore.jar')
+    compile files('libs/org.apache.commons.io.jar')
+    compile 'com.android.support:appcompat-v7:25.3.1'
+    compile 'com.android.support:design:25.3.1'
+    compile 'com.android.support:cardview-v7:25.3.1'
+    compile 'com.github.kanytu:android-parallax-recyclerview:v1.7'
+    compile 'com.bartoszlipinski:recyclerviewheader2:2.0.1'
+    compile 'com.google.firebase:firebase-messaging:9.6.0'
+    compile 'com.github.recruit-lifestyle:WaveSwipeRefreshLayout:1.6'
+    compile 'com.romainpiel.shimmer:library:1.4.0@aar'
+    compile 'com.ayz4sci.androidfactory:downloadprogress:1.0.1'
+    compile 'com.mani:ThinDownloadManager:1.3.0'
+    compile 'com.android.support.constraint:constraint-layout:1.0.0-beta4'
+    compile 'com.danikula:videocache:2.6.4'
+    compile 'com.kaopiz:kprogresshud:1.0.5'
+    compile 'com.thefinestartist:finestwebview:1.2.7'
+    compile 'com.ogaclejapan.smarttablayout:library:1.6.1@aar'
+    compile 'com.android.support:support-vector-drawable:25.3.1'
+    testCompile 'junit:junit:4.12'
+    compile 'com.jakewharton:butterknife:5.1.1'
+    //add retrofit library
+    compile 'com.google.code.gson:gson:2.7'
+    compile 'com.squareup.retrofit2:retrofit:2.3.0'
+    compile 'com.squareup.retrofit2:converter-gson:2.0.2'
+    compile 'com.squareup.okhttp:okhttp:2.5.0'
+    compile 'com.squareup.okhttp3:logging-interceptor:3.6.0'
+
+   /* Butter Knife*/
+    compile 'com.jakewharton:butterknife:8.8.1'
+    compile 'com.jakewharton:butterknife-compiler:8.8.1'
+}
+apply plugin: 'com.google.gms.google-services'

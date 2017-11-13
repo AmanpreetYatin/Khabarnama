@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/menu/activity_main2_drawer.xml",
+        "source": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/src/main/res/menu/activity_main2_drawer.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/menu/main2.xml",
+        "source": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/src/main/res/menu/main2.xml"
+    }
+]

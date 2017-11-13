@@ -1,0 +1,1 @@
+package com.bxs.khabarnama.ui.interfaces;/** * Created by amy on 22/9/17. */public interface InterfaceCommunicator {    void getResultBackFromDialog(int position);}

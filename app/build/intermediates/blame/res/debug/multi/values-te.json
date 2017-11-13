@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-te/values-te.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 226,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "/home/amy/.android/build-cache/b17cbdbd5b0e952fb1921cd53bcb05de34e40ab3/output/res/values-te/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 343,
+                        "endColumn": 226,
+                        "endOffset": 565
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/amy/.android/build-cache/c1c934eb95ecb7405138912870f2ccfe88a2737e/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/amy/.android/build-cache/c1c934eb95ecb7405138912870f2ccfe88a2737e/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/amy/.android/build-cache/c1c934eb95ecb7405138912870f2ccfe88a2737e/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/amy/.android/build-cache/c1c934eb95ecb7405138912870f2ccfe88a2737e/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1011924211205-c17b98uem4bc2mjjl6gmdjq8jujliegm.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://khabarnama-69e55.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1011924211205</string>
+    <string name="google_api_key" translatable="false">AIzaSyCRupwHrNzD5lWxZZdg-Cb8As-KDdUmIWk</string>
+    <string name="google_app_id" translatable="false">1:1011924211205:android:8ec9f181571090aa</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCRupwHrNzD5lWxZZdg-Cb8As-KDdUmIWk</string>
+    <string name="google_storage_bucket" translatable="false">khabarnama-69e55.appspot.com</string>
+</resources>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/animator/card_flip_left_out.xml",
+        "source": "/home/amy/.android/build-cache/feaf9078bdce35efc14133637fe4a47c87a082b8/output/res/animator/card_flip_left_out.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/animator/card_flip_right_in.xml",
+        "source": "/home/amy/.android/build-cache/feaf9078bdce35efc14133637fe4a47c87a082b8/output/res/animator/card_flip_right_in.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/animator/card_flip_left_in.xml",
+        "source": "/home/amy/.android/build-cache/feaf9078bdce35efc14133637fe4a47c87a082b8/output/res/animator/card_flip_left_in.xml"
+    },
+    {
+        "merged": "/home/amy/AndroidStudioProjects/jai/01June/Khabarnama/app/build/intermediates/res/merged/debug/animator/card_flip_right_out.xml",
+        "source": "/home/amy/.android/build-cache/feaf9078bdce35efc14133637fe4a47c87a082b8/output/res/animator/card_flip_right_out.xml"
+    }
+]
